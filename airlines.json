@@ -1,0 +1,5378 @@
+{
+   "201501": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "3,737"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "13,288"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "11,565"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "7,177"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "7,675"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "11,785"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "49,993"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,355"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "114,823"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,108"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "16,745"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "17,634"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "10,158"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "5,761"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "2,774"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "34,910"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "94,843"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "17,056"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "13,937"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "8,799"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "17,752"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "13,881"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,988"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "46,995"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "6,661"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "7,347"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "21,356"
+      },
+      {
+         "Operating Airline IATA Code": "YV",
+         "Passenger Count": "5,033"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "11,711"
+      },
+      {
+         "Operating Airline IATA Code": "RW",
+         "Passenger Count": "51"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "4,891"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "14,596"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "1,859"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "124,934"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "3,734"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "6,203"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "6,101"
+      },
+      {
+         "Operating Airline IATA Code": "US",
+         "Passenger Count": "60,619"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "28,156"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "146,357"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "9,344"
+      }
+   ],
+   "201502": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "2,590"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "9,999"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "11,101"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "7,023"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "6,804"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "10,502"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "48,728"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,582"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "100,010"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "6,945"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "15,388"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "15,306"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "8,594"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "5,444"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "2,311"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "34,168"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "91,506"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "14,499"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "11,774"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "6,770"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "16,473"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "10,924"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,538"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "47,858"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "5,669"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "5,721"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "18,451"
+      },
+      {
+         "Operating Airline IATA Code": "YV",
+         "Passenger Count": "5,102"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "10,222"
+      },
+      {
+         "Operating Airline IATA Code": "RW",
+         "Passenger Count": "51"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "4,668"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "11,146"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "1,532"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "114,811"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "2,656"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "5,402"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,073"
+      },
+      {
+         "Operating Airline IATA Code": "US",
+         "Passenger Count": "53,065"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "21,779"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "133,618"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "7,343"
+      }
+   ],
+   "201503": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "3,946"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "11,097"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "12,397"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "6,576"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "9,008"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "10,156"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "58,892"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,259"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "119,677"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "7,555"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "18,040"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "16,857"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "10,894"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "4,864"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "2,521"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "39,820"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "125,028"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "17,588"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "13,556"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "7,525"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "18,231"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "12,900"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,760"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "59,583"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "6,745"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "5,289"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "23,384"
+      },
+      {
+         "Operating Airline IATA Code": "YV",
+         "Passenger Count": "6,234"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "10,508"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "6,167"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "12,238"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "5,673"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "149,911"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "3,210"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "6,391"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,539"
+      },
+      {
+         "Operating Airline IATA Code": "US",
+         "Passenger Count": "65,797"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "25,991"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "163,017"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "10,498"
+      }
+   ],
+   "201504": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "4,146"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "10,838"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "10,367"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "7,465"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "13,212"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "9,379"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "55,673"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,777"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "119,810"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,327"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "19,534"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "16,925"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "10,572"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "5,373"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "2,621"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "37,954"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "127,887"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "17,572"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "13,876"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "7,479"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "18,548"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "14,571"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,879"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "60,277"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "10,912"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "6,978"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "21,817"
+      },
+      {
+         "Operating Airline IATA Code": "YV",
+         "Passenger Count": "3,817"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "11,569"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "5,757"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "14,432"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "3,999"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "148,792"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "4,833"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "6,116"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,334"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "3,631"
+      },
+      {
+         "Operating Airline IATA Code": "US",
+         "Passenger Count": "67,887"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "30,467"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "164,960"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "11,874"
+      }
+   ],
+   "201505": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "6,098"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "11,600"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "14,103"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "8,801"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "14,679"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "9,499"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "59,777"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,604"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "121,730"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,411"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "21,385"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "18,052"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "10,104"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "5,953"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "2,471"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "40,916"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "140,772"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "17,824"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "13,861"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "8,680"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "25,399"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "15,254"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,690"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "61,907"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "11,263"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "7,440"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "22,810"
+      },
+      {
+         "Operating Airline IATA Code": "YV",
+         "Passenger Count": "345"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "12,385"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "5,686"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "13,730"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "2,418"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "156,212"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "8,198"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "6,557"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,208"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "7,683"
+      },
+      {
+         "Operating Airline IATA Code": "US",
+         "Passenger Count": "43,024"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "36,162"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "172,132"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "13,988"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "6,614"
+      }
+   ],
+   "201506": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "7,436"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "9,662"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "17,568"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "9,438"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "21,655"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "8,812"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "58,381"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,123"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "122,821"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,249"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "20,629"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "19,842"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "10,172"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "5,869"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "3,498"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "30,723"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "169,393"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "17,143"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "13,194"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "7,290"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "26,006"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "14,340"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "6,140"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "61,178"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "11,680"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "6,668"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "22,661"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "10,953"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "6,913"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "12,861"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "1,905"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "150,533"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "9,610"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "5,265"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,624"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "8,582"
+      },
+      {
+         "Operating Airline IATA Code": "US",
+         "Passenger Count": "81,101"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "36,711"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "173,354"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "15,256"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "7,799"
+      },
+      {
+         "Operating Airline IATA Code": "SE",
+         "Passenger Count": "2,316"
+      }
+   ],
+   "201507": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "8,183"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "12,726"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "20,308"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "10,316"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "25,195"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "9,067"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "64,022"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,700"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "132,941"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,712"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "22,772"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "22,213"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "10,461"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "6,706"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "6,044"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "31,686"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "186,774"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "18,551"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "14,769"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "9,736"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "25,803"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "14,397"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "7,211"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "63,517"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "12,043"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "7,986"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "24,664"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "12,907"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "7,665"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "15,820"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "3,856"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "156,227"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "12,769"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "11,704"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "7,656"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "9,813"
+      },
+      {
+         "Operating Airline IATA Code": "US",
+         "Passenger Count": "89,861"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "41,337"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "183,026"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "17,879"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "8,701"
+      },
+      {
+         "Operating Airline IATA Code": "SE",
+         "Passenger Count": "4,354"
+      }
+   ],
+   "201508": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "7,893"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "12,766"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "19,816"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "10,194"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "23,579"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "8,021"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "67,853"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,851"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "131,452"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,813"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "22,268"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "22,374"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "10,122"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "6,980"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "6,545"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "32,627"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "180,010"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "18,050"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "14,632"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "9,582"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "25,218"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "15,706"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "7,219"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "62,855"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "12,034"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "8,321"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "24,205"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "11,437"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "7,622"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "16,286"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "4,345"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "159,846"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "11,244"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "10,805"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "8,356"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "9,548"
+      },
+      {
+         "Operating Airline IATA Code": "US",
+         "Passenger Count": "84,588"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "37,628"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "194,329"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "16,886"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "8,795"
+      },
+      {
+         "Operating Airline IATA Code": "SE",
+         "Passenger Count": "4,108"
+      }
+   ],
+   "201509": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "7,488"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "8,631"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "17,359"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "9,430"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "19,873"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "8,676"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "57,496"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,869"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "118,938"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "7,665"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "20,686"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "1,514"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "18,713"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "7,824"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "6,408"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "6,074"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "26,046"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "142,133"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "14,543"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "10,515"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "6,374"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "25,698"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "14,409"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "6,306"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "57,635"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "11,751"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "6,766"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "22,245"
+      },
+      {
+         "Operating Airline IATA Code": "GL",
+         "Passenger Count": "166"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "8,520"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "6,739"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "13,956"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "3,252"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "149,173"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "7,911"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "6,460"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "4,626"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "8,226"
+      },
+      {
+         "Operating Airline IATA Code": "US",
+         "Passenger Count": "70,960"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "26,083"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "163,718"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "15,368"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "7,427"
+      }
+   ],
+   "201510": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "7,105"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "9,506"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "15,184"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "7,620"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "15,190"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "7,695"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "52,272"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,758"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "36,425"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "7,483"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "22,535"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "3,520"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "22,437"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "7,448"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "5,391"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "5,525"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "25,971"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "116,955"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "14,470"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "9,515"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "6,267"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "28,141"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "13,620"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,986"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "64,326"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "11,022"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "6,453"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "23,713"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "8,694"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "7,317"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "11,678"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "3,717"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "156,435"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "7,273"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "6,641"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "4,212"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "9,227"
+      },
+      {
+         "Operating Airline IATA Code": "US",
+         "Passenger Count": "42,279"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "25,092"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "179,859"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "14,142"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "3,562"
+      }
+   ],
+   "201511": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "4,788"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "9,334"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "25,246"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "8,385"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "8,892"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "8,196"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "50,246"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,445"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "69,269"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "7,579"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "18,899"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "3,010"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "21,482"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "7,806"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "5,531"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "5,724"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "15,273"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "144,873"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "15,633"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "10,115"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "6,882"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "31,703"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "12,167"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,875"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "63,655"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "7,509"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "6,819"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "16,622"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "9,701"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "5,756"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "12,286"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "5,227"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "142,369"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "7,044"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "5,814"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "4,996"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "8,624"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "29,419"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "103"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "9,311"
+      }
+   ],
+   "201512": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "4,291"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "10,049"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "28,887"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "9,120"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "9,024"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "2,868"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "12,635"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "49,744"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,837"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "71,437"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,059"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "18,453"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "3,923"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "21,162"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "8,274"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "7,066"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "5,723"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "9,236"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "142,663"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "16,584"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "12,382"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "6,628"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "35,676"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "12,757"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,712"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "63,719"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "7,599"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "8,635"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "19,322"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "10,126"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "2,603"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "5,758"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "13,488"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "11,575"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "138,104"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "7,695"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "5,809"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "6,659"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "7,947"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "29,002"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "179,492"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "10,661"
+      }
+   ],
+   "201601": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "4,589"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "12,444"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "26,814"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "9,819"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "9,447"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "3,258"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "11,000"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "47,172"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,389"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "59,723"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,581"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "20,002"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "4,069"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "22,234"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "10,049"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "7,570"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "6,281"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "12,128"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "124,719"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "18,798"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "13,950"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "9,513"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "27,872"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "13,994"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "6,969"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "62,595"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "7,204"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "10,695"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "21,315"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "12,776"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "5,975"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "5,467"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "15,396"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "5,951"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "128,775"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "3,738"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "6,208"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "6,839"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "9,132"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "22,787"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "164,496"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "10,769"
+      }
+   ],
+   "201602": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "3,063"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "9,819"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "27,023"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "7,442"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "8,240"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "2,926"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "8,072"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "49,990"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,334"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "53,953"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "7,522"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "17,473"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "3,263"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "19,297"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "8,533"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "5,731"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "5,771"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "12,248"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "119,497"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "16,098"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "11,796"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "6,048"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "23,753"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "12,633"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,743"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "61,855"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "6,344"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "8,341"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "18,081"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "10,455"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "5,687"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "5,106"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "11,580"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "4,257"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "124,416"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "2,692"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "5,332"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,102"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "7,820"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "21,674"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "160,656"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "8,329"
+      }
+   ],
+   "201603": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "5,900"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "10,710"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "27,767"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "8,021"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "9,972"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "3,045"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "9,438"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "56,638"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,706"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "62,455"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "7,514"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "19,434"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "3,723"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "20,930"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "9,534"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "5,995"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "6,029"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "10,239"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "156,235"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "17,450"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "13,760"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "7,099"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "27,768"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "15,322"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,693"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "61,855"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "8,401"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "7,662"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "21,975"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "11,430"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "7,136"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "6,368"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "11,807"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "942"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "141,992"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "3,335"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "5,995"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,186"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "8,865"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "26,087"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "186,464"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "12,313"
+      }
+   ],
+   "201604": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "6,054"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "10,116"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "28,811"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "9,427"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "13,146"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "2,975"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "9,227"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "55,729"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,043"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "66,589"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,236"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "19,022"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "3,836"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "20,436"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "9,780"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "5,936"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "6,593"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "16,658"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "151,892"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "18,454"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "13,925"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "7,524"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "28,928"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "16,648"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,986"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "64,861"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "11,301"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "9,224"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "20,714"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "11,016"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "7,623"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "6,190"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "13,249"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "1,130"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "143,074"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "5,051"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "6,103"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,140"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "8,531"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "21,265"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "198,406"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "10,999"
+      }
+   ],
+   "201605": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "6,144"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "10,808"
+      },
+      {
+         "Operating Airline IATA Code": "AB",
+         "Passenger Count": "2,159"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "40,047"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "9,837"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "16,348"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "3,027"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "9,386"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "58,688"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,337"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "79,807"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,440"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "20,178"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "4,078"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "21,721"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "9,953"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "6,429"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "6,686"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "8,784"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "169,093"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "18,304"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "13,806"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "7,095"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "30,813"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "16,668"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,610"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "66,073"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "13,319"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "9,755"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "22,197"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "11,711"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "7,615"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "6,225"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "12,252"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "1,349"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "153,869"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "8,126"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "6,172"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,316"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "9,061"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "18,071"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "212,998"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "12,457"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "6,232"
+      }
+   ],
+   "201606": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "7,261"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "11,327"
+      },
+      {
+         "Operating Airline IATA Code": "AB",
+         "Passenger Count": "4,735"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "45,354"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "9,807"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "19,958"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "2,796"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "8,270"
+      },
+      {
+         "Operating Airline IATA Code": "FJ",
+         "Passenger Count": "40"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "58,423"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,176"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "85,536"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,362"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "19,698"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "4,257"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "21,759"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "9,268"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "7,931"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "6,698"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "12,177"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "190,022"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "17,840"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "12,898"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "6,610"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "30,279"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "16,237"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "6,154"
+      },
+      {
+         "Operating Airline IATA Code": "QK",
+         "Passenger Count": "925"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "65,625"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "14,298"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "9,942"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "22,680"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "11,991"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "8,753"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "7,237"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "12,700"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "176"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "151,564"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "9,714"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "6,180"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,277"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "9,031"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "17,459"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "213,718"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "13,899"
+      },
+      {
+         "Operating Airline IATA Code": "WW",
+         "Passenger Count": "4,288"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "6,351"
+      },
+      {
+         "Operating Airline IATA Code": "SE",
+         "Passenger Count": "2,153"
+      }
+   ],
+   "201607": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "8,107"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "14,095"
+      },
+      {
+         "Operating Airline IATA Code": "AB",
+         "Passenger Count": "6,022"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "54,894"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "10,214"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "25,573"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "3,210"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "8,948"
+      },
+      {
+         "Operating Airline IATA Code": "FJ",
+         "Passenger Count": "2,743"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "62,676"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,907"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "85,963"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,948"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "21,223"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "4,649"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "22,787"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "10,620"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "7,984"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "6,559"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "12,174"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "210,036"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "18,872"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "14,187"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "7,204"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "36,749"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "16,863"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "7,258"
+      },
+      {
+         "Operating Airline IATA Code": "QK",
+         "Passenger Count": "2,262"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "66,273"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "15,279"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "10,803"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "24,198"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "14,675"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "8,226"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "7,645"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "15,635"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "1,944"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "155,408"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "12,876"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "12,029"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,908"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "8,017"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "12,651"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "227,233"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "16,135"
+      },
+      {
+         "Operating Airline IATA Code": "Y4",
+         "Passenger Count": "8,568"
+      },
+      {
+         "Operating Airline IATA Code": "WW",
+         "Passenger Count": "7,421"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "8,749"
+      },
+      {
+         "Operating Airline IATA Code": "SE",
+         "Passenger Count": "4,267"
+      }
+   ],
+   "201608": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "7,374"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "12,967"
+      },
+      {
+         "Operating Airline IATA Code": "AB",
+         "Passenger Count": "5,568"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "53,693"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "14,631"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "23,282"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "2,985"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "7,756"
+      },
+      {
+         "Operating Airline IATA Code": "FJ",
+         "Passenger Count": "10"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "59,001"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,683"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "84,153"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,934"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "20,224"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "4,577"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "21,166"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "10,625"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "8,825"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "6,494"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "13,753"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "190,837"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "18,662"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "14,175"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "7,132"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "36,984"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "17,743"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "7,278"
+      },
+      {
+         "Operating Airline IATA Code": "QK",
+         "Passenger Count": "2,197"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "66,427"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "14,312"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "10,672"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "22,766"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "13,950"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "8,515"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "7,615"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "15,080"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "2,178"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "158,488"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "11,000"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "11,352"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "6,714"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "9,855"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "13,712"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "225,157"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "15,099"
+      },
+      {
+         "Operating Airline IATA Code": "Y4",
+         "Passenger Count": "8,823"
+      },
+      {
+         "Operating Airline IATA Code": "WW",
+         "Passenger Count": "7,383"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "8,285"
+      },
+      {
+         "Operating Airline IATA Code": "SE",
+         "Passenger Count": "3,999"
+      }
+   ],
+   "201609": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "7,207"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "11,437"
+      },
+      {
+         "Operating Airline IATA Code": "AB",
+         "Passenger Count": "5,568"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "41,970"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "14,107"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "18,946"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "2,791"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "8,491"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "59,408"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,061"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "73,770"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,483"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "20,069"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "4,294"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "20,329"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "9,213"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "8,731"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "6,067"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "16,144"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "141,726"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "16,296"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "11,765"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "6,198"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "35,750"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "15,751"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "6,221"
+      },
+      {
+         "Operating Airline IATA Code": "QK",
+         "Passenger Count": "2,035"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "67,049"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "13,387"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "9,974"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "22,744"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "9,377"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "8,382"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "7,413"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "13,130"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "8,615"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "157,240"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "7,538"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "10,528"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,240"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "8,665"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "11,309"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "196,178"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "13,140"
+      },
+      {
+         "Operating Airline IATA Code": "Y4",
+         "Passenger Count": "4,075"
+      },
+      {
+         "Operating Airline IATA Code": "WW",
+         "Passenger Count": "6,283"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "7,011"
+      },
+      {
+         "Operating Airline IATA Code": "SE",
+         "Passenger Count": "2,002"
+      }
+   ],
+   "201610": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "7,395"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "10,975"
+      },
+      {
+         "Operating Airline IATA Code": "AB",
+         "Passenger Count": "3,778"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "40,523"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "11,291"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "15,447"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "2,906"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "7,886"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "56,181"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,595"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "78,915"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "7,869"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "19,972"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "4,286"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "16,764"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "8,447"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "8,260"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "5,860"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "9,487"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "160,335"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "15,045"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "9,835"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "4,841"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "36,197"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "15,920"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,697"
+      },
+      {
+         "Operating Airline IATA Code": "QK",
+         "Passenger Count": "1,922"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "66,961"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "12,430"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "8,059"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "22,919"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "9,442"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "7,300"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "7,341"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "10,968"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "11,740"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "158,516"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "6,844"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "6,479"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,225"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "8,607"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "11,736"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "201,499"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "11,488"
+      },
+      {
+         "Operating Airline IATA Code": "Y4",
+         "Passenger Count": "2,070"
+      },
+      {
+         "Operating Airline IATA Code": "WW",
+         "Passenger Count": "5,297"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "5,108"
+      },
+      {
+         "Operating Airline IATA Code": "SE",
+         "Passenger Count": "289"
+      }
+   ],
+   "201611": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "4,432"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "11,526"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "27,532"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "10,860"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "7,858"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "3,499"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "7,817"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "56,961"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,888"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "70,120"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,172"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "16,398"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "5,904"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "19,317"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "9,439"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "8,236"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "5,923"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "8,445"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "140,398"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "16,155"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "10,787"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "5,303"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "25,715"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "17,355"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,678"
+      },
+      {
+         "Operating Airline IATA Code": "QK",
+         "Passenger Count": "1,921"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "63,557"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "8,353"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "7,681"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "17,784"
+      },
+      {
+         "Operating Airline IATA Code": "YV",
+         "Passenger Count": "46"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "10,131"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "5,521"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "5,555"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "12,402"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "12,764"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "160,193"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "6,713"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "5,815"
+      },
+      {
+         "Operating Airline IATA Code": "",
+         "Passenger Count": "232"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "4,944"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "7,079"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "19,245"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "201,263"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "8,132"
+      },
+      {
+         "Operating Airline IATA Code": "Y4",
+         "Passenger Count": "2,496"
+      },
+      {
+         "Operating Airline IATA Code": "WW",
+         "Passenger Count": "5,253"
+      }
+   ],
+   "201612": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "4,327"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "11,192"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "30,293"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "12,584"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "8,964"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "5,619"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "7,852"
+      },
+      {
+         "Operating Airline IATA Code": "FJ",
+         "Passenger Count": "2,057"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "55,103"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,863"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "69,514"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,018"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "16,824"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "7,788"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "20,722"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "9,384"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "9,095"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "6,364"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "5,295"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "138,566"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "16,807"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "11,468"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "6,229"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "23,848"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "15,400"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,192"
+      },
+      {
+         "Operating Airline IATA Code": "QK",
+         "Passenger Count": "1,983"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "60,809"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "8,293"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "9,305"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "20,127"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "10,872"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "8,297"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "5,613"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "13,844"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "14,636"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "150,351"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "7,886"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "5,760"
+      },
+      {
+         "Operating Airline IATA Code": "",
+         "Passenger Count": "199"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,764"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "7,488"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "17,351"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "194,472"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "9,863"
+      },
+      {
+         "Operating Airline IATA Code": "Y4",
+         "Passenger Count": "4,647"
+      },
+      {
+         "Operating Airline IATA Code": "WW",
+         "Passenger Count": "5,843"
+      }
+   ],
+   "201701": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "4,502"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "13,292"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "30,113"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "13,155"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "9,853"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "5,872"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "8,307"
+      },
+      {
+         "Operating Airline IATA Code": "FJ",
+         "Passenger Count": "2,160"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "52,877"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,653"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "57,835"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,629"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "18,667"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "7,573"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "22,482"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "10,318"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "11,076"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "6,727"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "4,593"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "105,005"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "19,767"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "14,261"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "7,097"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "22,310"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "15,763"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "6,840"
+      },
+      {
+         "Operating Airline IATA Code": "QK",
+         "Passenger Count": "1,900"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "68,748"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "8,673"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "10,945"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "20,654"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "13,591"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "8,230"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "5,741"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "15,602"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "28,660"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "129,931"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "3,345"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "6,135"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "6,062"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "8,344"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "13,379"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "182,203"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "11,064"
+      },
+      {
+         "Operating Airline IATA Code": "Y4",
+         "Passenger Count": "5,755"
+      },
+      {
+         "Operating Airline IATA Code": "WW",
+         "Passenger Count": "4,228"
+      }
+   ],
+   "201702": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "3,603"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "9,676"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "28,371"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "10,248"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "7,210"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "5,247"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "7,490"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "49,910"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,264"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "75,278"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "7,619"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "14,792"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "6,723"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "16,866"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "8,572"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "7,685"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "5,507"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "3,938"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "94,320"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "15,484"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "11,521"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "2,720"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "16,633"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "12,390"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "5,518"
+      },
+      {
+         "Operating Airline IATA Code": "QK",
+         "Passenger Count": "1,767"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "58,866"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "7,148"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "8,358"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "16,707"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "10,180"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "4,962"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "5,147"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "11,493"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "27,745"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "116,050"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "2,250"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "5,139"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "4,971"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "5,863"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "11,420"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "164,526"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "8,812"
+      },
+      {
+         "Operating Airline IATA Code": "Y4",
+         "Passenger Count": "4,369"
+      },
+      {
+         "Operating Airline IATA Code": "WW",
+         "Passenger Count": "5,450"
+      }
+   ],
+   "201703": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "4,529"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "11,035"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "30,413"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "10,161"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "8,789"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "6,152"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "9,098"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "65,203"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,690"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "61,274"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,155"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "18,542"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "5,839"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "20,464"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "9,143"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "7,876"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "5,963"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "2,725"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "127,306"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "17,050"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "11,371"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "2,832"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "20,686"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "15,325"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "6,274"
+      },
+      {
+         "Operating Airline IATA Code": "QK",
+         "Passenger Count": "2,083"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "61,506"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "9,310"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "7,873"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "20,219"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "10,861"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "7,227"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "5,768"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "12,949"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "30,355"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "147,328"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "2,989"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "6,786"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,710"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "7,201"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "7,893"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "192,017"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "10,321"
+      },
+      {
+         "Operating Airline IATA Code": "Y4",
+         "Passenger Count": "3,375"
+      },
+      {
+         "Operating Airline IATA Code": "WW",
+         "Passenger Count": "7,515"
+      }
+   ],
+   "201704": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "6,707"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "14,842"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "33,364"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "9,179"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "15,832"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "5,932"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "9,331"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "52,019"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,446"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "64,373"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,358"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "19,319"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "6,028"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "21,518"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "9,704"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "9,264"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "8,222"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "3,717"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "143,070"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "18,545"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "11,495"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "2,930"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "22,553"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "15,799"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "6,516"
+      },
+      {
+         "Operating Airline IATA Code": "QK",
+         "Passenger Count": "2,016"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "64,479"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "13,611"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "10,086"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "21,332"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "13,072"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "8,447"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "5,981"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "13,282"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "22,620"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "152,485"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "5,719"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "7,803"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,403"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "8,986"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "12,349"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "201,970"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "12,863"
+      },
+      {
+         "Operating Airline IATA Code": "Y4",
+         "Passenger Count": "4,910"
+      },
+      {
+         "Operating Airline IATA Code": "WW",
+         "Passenger Count": "8,340"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "282"
+      }
+   ],
+   "201705": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "6,686"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "12,729"
+      },
+      {
+         "Operating Airline IATA Code": "AB",
+         "Passenger Count": "5,922"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "35,597"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "9,707"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "15,832"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "5,644"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "9,335"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "32,418"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "6,706"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "75,337"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "7,966"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "19,529"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "5,730"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "20,190"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "10,707"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "9,568"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "8,560"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "8,011"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "160,645"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "18,554"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "11,162"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "2,929"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "31,342"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "16,202"
+      },
+      {
+         "Operating Airline IATA Code": "QX",
+         "Passenger Count": "926"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "6,091"
+      },
+      {
+         "Operating Airline IATA Code": "QK",
+         "Passenger Count": "3,632"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "68,539"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "12,632"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "12,283"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "21,153"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "13,656"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "7,125"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "5,793"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "12,964"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "1,320"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "159,265"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "8,071"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "8,537"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,390"
+      },
+      {
+         "Operating Airline IATA Code": "MT",
+         "Passenger Count": "1,249"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "8,858"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "17,238"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "212,937"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "12,379"
+      },
+      {
+         "Operating Airline IATA Code": "Y4",
+         "Passenger Count": "5,580"
+      },
+      {
+         "Operating Airline IATA Code": "WW",
+         "Passenger Count": "4,797"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "9,166"
+      }
+   ],
+   "201706": [
+      {
+         "Operating Airline IATA Code": "EI",
+         "Passenger Count": "7,722"
+      },
+      {
+         "Operating Airline IATA Code": "AM",
+         "Passenger Count": "13,746"
+      },
+      {
+         "Operating Airline IATA Code": "AB",
+         "Passenger Count": "9,654"
+      },
+      {
+         "Operating Airline IATA Code": "AC",
+         "Passenger Count": "41,800"
+      },
+      {
+         "Operating Airline IATA Code": "CA",
+         "Passenger Count": "9,237"
+      },
+      {
+         "Operating Airline IATA Code": "AF",
+         "Passenger Count": "20,279"
+      },
+      {
+         "Operating Airline IATA Code": "AI",
+         "Passenger Count": "5,917"
+      },
+      {
+         "Operating Airline IATA Code": "NZ",
+         "Passenger Count": "9,081"
+      },
+      {
+         "Operating Airline IATA Code": "FJ",
+         "Passenger Count": "2,458"
+      },
+      {
+         "Operating Airline IATA Code": "AS",
+         "Passenger Count": "26,537"
+      },
+      {
+         "Operating Airline IATA Code": "NH",
+         "Passenger Count": "7,119"
+      },
+      {
+         "Operating Airline IATA Code": "AA",
+         "Passenger Count": "69,044"
+      },
+      {
+         "Operating Airline IATA Code": "OZ",
+         "Passenger Count": "8,099"
+      },
+      {
+         "Operating Airline IATA Code": "BA",
+         "Passenger Count": "19,552"
+      },
+      {
+         "Operating Airline IATA Code": "CM",
+         "Passenger Count": "7,308"
+      },
+      {
+         "Operating Airline IATA Code": "CX",
+         "Passenger Count": "20,667"
+      },
+      {
+         "Operating Airline IATA Code": "CI",
+         "Passenger Count": "11,057"
+      },
+      {
+         "Operating Airline IATA Code": "MU",
+         "Passenger Count": "9,623"
+      },
+      {
+         "Operating Airline IATA Code": "CZ",
+         "Passenger Count": "9,108"
+      },
+      {
+         "Operating Airline IATA Code": "CP",
+         "Passenger Count": "5,149"
+      },
+      {
+         "Operating Airline IATA Code": "DL",
+         "Passenger Count": "178,538"
+      },
+      {
+         "Operating Airline IATA Code": "BR",
+         "Passenger Count": "17,647"
+      },
+      {
+         "Operating Airline IATA Code": "EK",
+         "Passenger Count": "10,940"
+      },
+      {
+         "Operating Airline IATA Code": "EY",
+         "Passenger Count": "2,807"
+      },
+      {
+         "Operating Airline IATA Code": "AY",
+         "Passenger Count": "2,875"
+      },
+      {
+         "Operating Airline IATA Code": "F9",
+         "Passenger Count": "29,914"
+      },
+      {
+         "Operating Airline IATA Code": "HA",
+         "Passenger Count": "15,174"
+      },
+      {
+         "Operating Airline IATA Code": "QX",
+         "Passenger Count": "2,025"
+      },
+      {
+         "Operating Airline IATA Code": "JL",
+         "Passenger Count": "6,494"
+      },
+      {
+         "Operating Airline IATA Code": "QK",
+         "Passenger Count": "3,557"
+      },
+      {
+         "Operating Airline IATA Code": "B6",
+         "Passenger Count": "65,210"
+      },
+      {
+         "Operating Airline IATA Code": "KL",
+         "Passenger Count": "15,926"
+      },
+      {
+         "Operating Airline IATA Code": "KE",
+         "Passenger Count": "13,943"
+      },
+      {
+         "Operating Airline IATA Code": "LH",
+         "Passenger Count": "20,601"
+      },
+      {
+         "Operating Airline IATA Code": "PR",
+         "Passenger Count": "12,571"
+      },
+      {
+         "Operating Airline IATA Code": "QF",
+         "Passenger Count": "8,128"
+      },
+      {
+         "Operating Airline IATA Code": "SK",
+         "Passenger Count": "6,637"
+      },
+      {
+         "Operating Airline IATA Code": "SQ",
+         "Passenger Count": "13,371"
+      },
+      {
+         "Operating Airline IATA Code": "OO",
+         "Passenger Count": "2,837"
+      },
+      {
+         "Operating Airline IATA Code": "WN",
+         "Passenger Count": "163,922"
+      },
+      {
+         "Operating Airline IATA Code": "SY",
+         "Passenger Count": "9,451"
+      },
+      {
+         "Operating Airline IATA Code": "LX",
+         "Passenger Count": "8,538"
+      },
+      {
+         "Operating Airline IATA Code": "TA",
+         "Passenger Count": "5,616"
+      },
+      {
+         "Operating Airline IATA Code": "MT",
+         "Passenger Count": "2,312"
+      },
+      {
+         "Operating Airline IATA Code": "TK",
+         "Passenger Count": "9,369"
+      },
+      {
+         "Operating Airline IATA Code": "UA",
+         "Passenger Count": "14,006"
+      },
+      {
+         "Operating Airline IATA Code": "VX",
+         "Passenger Count": "219,741"
+      },
+      {
+         "Operating Airline IATA Code": "VS",
+         "Passenger Count": "14,091"
+      },
+      {
+         "Operating Airline IATA Code": "Y4",
+         "Passenger Count": "5,174"
+      },
+      {
+         "Operating Airline IATA Code": "WW",
+         "Passenger Count": "9,112"
+      },
+      {
+         "Operating Airline IATA Code": "WS",
+         "Passenger Count": "9,350"
+      },
+      {
+         "Operating Airline IATA Code": "SE",
+         "Passenger Count": "1,792"
+      }
+   ]
+}
