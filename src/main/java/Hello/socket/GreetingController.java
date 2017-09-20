@@ -20,6 +20,7 @@ import java.text.ParseException;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.TreeMap;
 
 @Controller
 public class GreetingController {
@@ -28,6 +29,7 @@ public class GreetingController {
     private Thread passNumThread;
     private static SimpMessagingTemplate template;//get MessagingTemplate
     private Map<String,String> airlinesMap = new HashMap<>();
+    private TreeMap<String,String> map= null;
 
     @Autowired
     public GreetingController(SimpMessagingTemplate template)
@@ -89,7 +91,12 @@ public class GreetingController {
                         for(int i=0;i<date.length;i++){
                             String message = airlinesMap.get(date[i]);
                             String m[] = {date[i],message};
-                            template.convertAndSend("/topic/greetings" , m);
+
+                            map = new TreeMap<>();
+                            //map.put("date",date[i]);
+                            map.put("data",message);
+
+                            template.convertAndSend("/topic/greetings" , map);
                             System.out.println("date: "+date[i]+" message: "+message);
                             try {
                                 sleep(2000);
@@ -116,7 +123,7 @@ public class GreetingController {
         JSONParser parser = new JSONParser();
 
         try {
-            Object obj = parser.parse(new FileReader("airlines.json"));
+            Object obj = parser.parse(new FileReader("airlines3.json"));
 
             JSONObject jsonObject =  (JSONObject) obj;
 
@@ -124,7 +131,7 @@ public class GreetingController {
                 JSONArray jsonArray = (JSONArray) jsonObject.get(date[i]);
                 Iterator<String> iterator = jsonArray.iterator();
                 //System.out.println(jsonArray.toJSONString());
-                airlinesMap.put(date[i],jsonArray.toJSONString().replace());
+                airlinesMap.put(date[i],jsonArray.toJSONString());
             }
 
 

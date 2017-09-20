@@ -1,0 +1,5378 @@
+{
+   "201501": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 3737
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 13288
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 11565
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 7177
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 7675
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 11785
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 49993
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7355
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 114823
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8108
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 16745
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 17634
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 10158
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 5761
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 2774
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 34910
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 94843
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 17056
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 13937
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 8799
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 17752
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 13881
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5988
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 46995
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 6661
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 7347
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 21356
+      },
+      {
+         "IATACode": "YV",
+         "PassengerCount": 5033
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 11711
+      },
+      {
+         "IATACode": "RW",
+         "PassengerCount": 51
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 4891
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 14596
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 1859
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 124934
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 3734
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 6203
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 6101
+      },
+      {
+         "IATACode": "US",
+         "PassengerCount": 60619
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 28156
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 146357
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 9344
+      }
+   ],
+   "201502": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 2590
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 9999
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 11101
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 7023
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 6804
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 10502
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 48728
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6582
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 100010
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 6945
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 15388
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 15306
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 8594
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 5444
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 2311
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 34168
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 91506
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 14499
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 11774
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 6770
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 16473
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 10924
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5538
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 47858
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 5669
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 5721
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 18451
+      },
+      {
+         "IATACode": "YV",
+         "PassengerCount": 5102
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 10222
+      },
+      {
+         "IATACode": "RW",
+         "PassengerCount": 51
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 4668
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 11146
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 1532
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 114811
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 2656
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 5402
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5073
+      },
+      {
+         "IATACode": "US",
+         "PassengerCount": 53065
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 21779
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 133618
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 7343
+      }
+   ],
+   "201503": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 3946
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 11097
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 12397
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 6576
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 9008
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 10156
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 58892
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7259
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 119677
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 7555
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 18040
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 16857
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 10894
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 4864
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 2521
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 39820
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 125028
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 17588
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 13556
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 7525
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 18231
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 12900
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5760
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 59583
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 6745
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 5289
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 23384
+      },
+      {
+         "IATACode": "YV",
+         "PassengerCount": 6234
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 10508
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 6167
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 12238
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 5673
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 149911
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 3210
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 6391
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5539
+      },
+      {
+         "IATACode": "US",
+         "PassengerCount": 65797
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 25991
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 163017
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 10498
+      }
+   ],
+   "201504": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 4146
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 10838
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 10367
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 7465
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 13212
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 9379
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 55673
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6777
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 119810
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8327
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 19534
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 16925
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 10572
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 5373
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 2621
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 37954
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 127887
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 17572
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 13876
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 7479
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 18548
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 14571
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5879
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 60277
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 10912
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 6978
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 21817
+      },
+      {
+         "IATACode": "YV",
+         "PassengerCount": 3817
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 11569
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 5757
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 14432
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 3999
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 148792
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 4833
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 6116
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5334
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 3631
+      },
+      {
+         "IATACode": "US",
+         "PassengerCount": 67887
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 30467
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 164960
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 11874
+      }
+   ],
+   "201505": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 6098
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 11600
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 14103
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 8801
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 14679
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 9499
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 59777
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6604
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 121730
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8411
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 21385
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 18052
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 10104
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 5953
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 2471
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 40916
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 140772
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 17824
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 13861
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 8680
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 25399
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 15254
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5690
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 61907
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 11263
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 7440
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 22810
+      },
+      {
+         "IATACode": "YV",
+         "PassengerCount": 345
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 12385
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 5686
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 13730
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 2418
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 156212
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 8198
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 6557
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5208
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 7683
+      },
+      {
+         "IATACode": "US",
+         "PassengerCount": 43024
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 36162
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 172132
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 13988
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 6614
+      }
+   ],
+   "201506": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 7436
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 9662
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 17568
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 9438
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 21655
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 8812
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 58381
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7123
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 122821
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8249
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 20629
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 19842
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 10172
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 5869
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 3498
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 30723
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 169393
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 17143
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 13194
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 7290
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 26006
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 14340
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 6140
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 61178
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 11680
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 6668
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 22661
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 10953
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 6913
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 12861
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 1905
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 150533
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 9610
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 5265
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5624
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 8582
+      },
+      {
+         "IATACode": "US",
+         "PassengerCount": 81101
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 36711
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 173354
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 15256
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 7799
+      },
+      {
+         "IATACode": "SE",
+         "PassengerCount": 2316
+      }
+   ],
+   "201507": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 8183
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 12726
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 20308
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 10316
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 25195
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 9067
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 64022
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7700
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 132941
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8712
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 22772
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 22213
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 10461
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 6706
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 6044
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 31686
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 186774
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 18551
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 14769
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 9736
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 25803
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 14397
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 7211
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 63517
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 12043
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 7986
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 24664
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 12907
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 7665
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 15820
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 3856
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 156227
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 12769
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 11704
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 7656
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 9813
+      },
+      {
+         "IATACode": "US",
+         "PassengerCount": 89861
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 41337
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 183026
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 17879
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 8701
+      },
+      {
+         "IATACode": "SE",
+         "PassengerCount": 4354
+      }
+   ],
+   "201508": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 7893
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 12766
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 19816
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 10194
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 23579
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 8021
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 67853
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7851
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 131452
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8813
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 22268
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 22374
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 10122
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 6980
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 6545
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 32627
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 180010
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 18050
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 14632
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 9582
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 25218
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 15706
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 7219
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 62855
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 12034
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 8321
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 24205
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 11437
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 7622
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 16286
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 4345
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 159846
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 11244
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 10805
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 8356
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 9548
+      },
+      {
+         "IATACode": "US",
+         "PassengerCount": 84588
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 37628
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 194329
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 16886
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 8795
+      },
+      {
+         "IATACode": "SE",
+         "PassengerCount": 4108
+      }
+   ],
+   "201509": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 7488
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 8631
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 17359
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 9430
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 19873
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 8676
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 57496
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6869
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 118938
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 7665
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 20686
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 1514
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 18713
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 7824
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 6408
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 6074
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 26046
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 142133
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 14543
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 10515
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 6374
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 25698
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 14409
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 6306
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 57635
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 11751
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 6766
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 22245
+      },
+      {
+         "IATACode": "GL",
+         "PassengerCount": 166
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 8520
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 6739
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 13956
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 3252
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 149173
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 7911
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 6460
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 4626
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 8226
+      },
+      {
+         "IATACode": "US",
+         "PassengerCount": 70960
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 26083
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 163718
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 15368
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 7427
+      }
+   ],
+   "201510": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 7105
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 9506
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 15184
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 7620
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 15190
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 7695
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 52272
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6758
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 36425
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 7483
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 22535
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 3520
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 22437
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 7448
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 5391
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 5525
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 25971
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 116955
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 14470
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 9515
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 6267
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 28141
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 13620
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5986
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 64326
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 11022
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 6453
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 23713
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 8694
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 7317
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 11678
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 3717
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 156435
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 7273
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 6641
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 4212
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 9227
+      },
+      {
+         "IATACode": "US",
+         "PassengerCount": 42279
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 25092
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 179859
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 14142
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 3562
+      }
+   ],
+   "201511": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 4788
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 9334
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 25246
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 8385
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 8892
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 8196
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 50246
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6445
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 69269
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 7579
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 18899
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 3010
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 21482
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 7806
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 5531
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 5724
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 15273
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 144873
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 15633
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 10115
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 6882
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 31703
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 12167
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5875
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 63655
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 7509
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 6819
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 16622
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 9701
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 5756
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 12286
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 5227
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 142369
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 7044
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 5814
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 4996
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 8624
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 29419
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 103
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 9311
+      }
+   ],
+   "201512": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 4291
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 10049
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 28887
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 9120
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 9024
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 2868
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 12635
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 49744
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6837
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 71437
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8059
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 18453
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 3923
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 21162
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 8274
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 7066
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 5723
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 9236
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 142663
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 16584
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 12382
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 6628
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 35676
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 12757
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5712
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 63719
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 7599
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 8635
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 19322
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 10126
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 2603
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 5758
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 13488
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 11575
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 138104
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 7695
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 5809
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 6659
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 7947
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 29002
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 179492
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 10661
+      }
+   ],
+   "201601": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 4589
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 12444
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 26814
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 9819
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 9447
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 3258
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 11000
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 47172
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7389
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 59723
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8581
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 20002
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 4069
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 22234
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 10049
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 7570
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 6281
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 12128
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 124719
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 18798
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 13950
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 9513
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 27872
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 13994
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 6969
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 62595
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 7204
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 10695
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 21315
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 12776
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 5975
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 5467
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 15396
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 5951
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 128775
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 3738
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 6208
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 6839
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 9132
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 22787
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 164496
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 10769
+      }
+   ],
+   "201602": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 3063
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 9819
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 27023
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 7442
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 8240
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 2926
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 8072
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 49990
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6334
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 53953
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 7522
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 17473
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 3263
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 19297
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 8533
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 5731
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 5771
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 12248
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 119497
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 16098
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 11796
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 6048
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 23753
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 12633
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5743
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 61855
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 6344
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 8341
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 18081
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 10455
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 5687
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 5106
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 11580
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 4257
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 124416
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 2692
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 5332
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5102
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 7820
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 21674
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 160656
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 8329
+      }
+   ],
+   "201603": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 5900
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 10710
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 27767
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 8021
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 9972
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 3045
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 9438
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 56638
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6706
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 62455
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 7514
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 19434
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 3723
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 20930
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 9534
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 5995
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 6029
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 10239
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 156235
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 17450
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 13760
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 7099
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 27768
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 15322
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5693
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 61855
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 8401
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 7662
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 21975
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 11430
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 7136
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 6368
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 11807
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 942
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 141992
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 3335
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 5995
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5186
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 8865
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 26087
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 186464
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 12313
+      }
+   ],
+   "201604": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 6054
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 10116
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 28811
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 9427
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 13146
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 2975
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 9227
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 55729
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7043
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 66589
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8236
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 19022
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 3836
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 20436
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 9780
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 5936
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 6593
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 16658
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 151892
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 18454
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 13925
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 7524
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 28928
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 16648
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5986
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 64861
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 11301
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 9224
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 20714
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 11016
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 7623
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 6190
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 13249
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 1130
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 143074
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 5051
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 6103
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5140
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 8531
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 21265
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 198406
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 10999
+      }
+   ],
+   "201605": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 6144
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 10808
+      },
+      {
+         "IATACode": "AB",
+         "PassengerCount": 2159
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 40047
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 9837
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 16348
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 3027
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 9386
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 58688
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7337
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 79807
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8440
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 20178
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 4078
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 21721
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 9953
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 6429
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 6686
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 8784
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 169093
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 18304
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 13806
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 7095
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 30813
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 16668
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5610
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 66073
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 13319
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 9755
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 22197
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 11711
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 7615
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 6225
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 12252
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 1349
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 153869
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 8126
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 6172
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5316
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 9061
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 18071
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 212998
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 12457
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 6232
+      }
+   ],
+   "201606": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 7261
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 11327
+      },
+      {
+         "IATACode": "AB",
+         "PassengerCount": 4735
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 45354
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 9807
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 19958
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 2796
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 8270
+      },
+      {
+         "IATACode": "FJ",
+         "PassengerCount": 40
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 58423
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7176
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 85536
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8362
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 19698
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 4257
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 21759
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 9268
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 7931
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 6698
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 12177
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 190022
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 17840
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 12898
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 6610
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 30279
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 16237
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 6154
+      },
+      {
+         "IATACode": "QK",
+         "PassengerCount": 925
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 65625
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 14298
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 9942
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 22680
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 11991
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 8753
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 7237
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 12700
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 176
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 151564
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 9714
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 6180
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5277
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 9031
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 17459
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 213718
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 13899
+      },
+      {
+         "IATACode": "WW",
+         "PassengerCount": 4288
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 6351
+      },
+      {
+         "IATACode": "SE",
+         "PassengerCount": 2153
+      }
+   ],
+   "201607": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 8107
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 14095
+      },
+      {
+         "IATACode": "AB",
+         "PassengerCount": 6022
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 54894
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 10214
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 25573
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 3210
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 8948
+      },
+      {
+         "IATACode": "FJ",
+         "PassengerCount": 2743
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 62676
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7907
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 85963
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8948
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 21223
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 4649
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 22787
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 10620
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 7984
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 6559
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 12174
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 210036
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 18872
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 14187
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 7204
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 36749
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 16863
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 7258
+      },
+      {
+         "IATACode": "QK",
+         "PassengerCount": 2262
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 66273
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 15279
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 10803
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 24198
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 14675
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 8226
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 7645
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 15635
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 1944
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 155408
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 12876
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 12029
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5908
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 8017
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 12651
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 227233
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 16135
+      },
+      {
+         "IATACode": "Y4",
+         "PassengerCount": 8568
+      },
+      {
+         "IATACode": "WW",
+         "PassengerCount": 7421
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 8749
+      },
+      {
+         "IATACode": "SE",
+         "PassengerCount": 4267
+      }
+   ],
+   "201608": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 7374
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 12967
+      },
+      {
+         "IATACode": "AB",
+         "PassengerCount": 5568
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 53693
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 14631
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 23282
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 2985
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 7756
+      },
+      {
+         "IATACode": "FJ",
+         "PassengerCount": 10
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 59001
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7683
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 84153
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8934
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 20224
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 4577
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 21166
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 10625
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 8825
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 6494
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 13753
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 190837
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 18662
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 14175
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 7132
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 36984
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 17743
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 7278
+      },
+      {
+         "IATACode": "QK",
+         "PassengerCount": 2197
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 66427
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 14312
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 10672
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 22766
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 13950
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 8515
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 7615
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 15080
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 2178
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 158488
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 11000
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 11352
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 6714
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 9855
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 13712
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 225157
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 15099
+      },
+      {
+         "IATACode": "Y4",
+         "PassengerCount": 8823
+      },
+      {
+         "IATACode": "WW",
+         "PassengerCount": 7383
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 8285
+      },
+      {
+         "IATACode": "SE",
+         "PassengerCount": 3999
+      }
+   ],
+   "201609": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 7207
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 11437
+      },
+      {
+         "IATACode": "AB",
+         "PassengerCount": 5568
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 41970
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 14107
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 18946
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 2791
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 8491
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 59408
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7061
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 73770
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8483
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 20069
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 4294
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 20329
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 9213
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 8731
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 6067
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 16144
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 141726
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 16296
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 11765
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 6198
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 35750
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 15751
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 6221
+      },
+      {
+         "IATACode": "QK",
+         "PassengerCount": 2035
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 67049
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 13387
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 9974
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 22744
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 9377
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 8382
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 7413
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 13130
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 8615
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 157240
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 7538
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 10528
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5240
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 8665
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 11309
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 196178
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 13140
+      },
+      {
+         "IATACode": "Y4",
+         "PassengerCount": 4075
+      },
+      {
+         "IATACode": "WW",
+         "PassengerCount": 6283
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 7011
+      },
+      {
+         "IATACode": "SE",
+         "PassengerCount": 2002
+      }
+   ],
+   "201610": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 7395
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 10975
+      },
+      {
+         "IATACode": "AB",
+         "PassengerCount": 3778
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 40523
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 11291
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 15447
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 2906
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 7886
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 56181
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6595
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 78915
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 7869
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 19972
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 4286
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 16764
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 8447
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 8260
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 5860
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 9487
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 160335
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 15045
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 9835
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 4841
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 36197
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 15920
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5697
+      },
+      {
+         "IATACode": "QK",
+         "PassengerCount": 1922
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 66961
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 12430
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 8059
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 22919
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 9442
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 7300
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 7341
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 10968
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 11740
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 158516
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 6844
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 6479
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5225
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 8607
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 11736
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 201499
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 11488
+      },
+      {
+         "IATACode": "Y4",
+         "PassengerCount": 2070
+      },
+      {
+         "IATACode": "WW",
+         "PassengerCount": 5297
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 5108
+      },
+      {
+         "IATACode": "SE",
+         "PassengerCount": 289
+      }
+   ],
+   "201611": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 4432
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 11526
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 27532
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 10860
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 7858
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 3499
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 7817
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 56961
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6888
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 70120
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8172
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 16398
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 5904
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 19317
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 9439
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 8236
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 5923
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 8445
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 140398
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 16155
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 10787
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 5303
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 25715
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 17355
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5678
+      },
+      {
+         "IATACode": "QK",
+         "PassengerCount": 1921
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 63557
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 8353
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 7681
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 17784
+      },
+      {
+         "IATACode": "YV",
+         "PassengerCount": 46
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 10131
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 5521
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 5555
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 12402
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 12764
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 160193
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 6713
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 5815
+      },
+      {
+         "IATACode": "",
+         "PassengerCount": 232
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 4944
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 7079
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 19245
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 201263
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 8132
+      },
+      {
+         "IATACode": "Y4",
+         "PassengerCount": 2496
+      },
+      {
+         "IATACode": "WW",
+         "PassengerCount": 5253
+      }
+   ],
+   "201612": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 4327
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 11192
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 30293
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 12584
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 8964
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 5619
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 7852
+      },
+      {
+         "IATACode": "FJ",
+         "PassengerCount": 2057
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 55103
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6863
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 69514
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8018
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 16824
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 7788
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 20722
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 9384
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 9095
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 6364
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 5295
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 138566
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 16807
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 11468
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 6229
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 23848
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 15400
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5192
+      },
+      {
+         "IATACode": "QK",
+         "PassengerCount": 1983
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 60809
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 8293
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 9305
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 20127
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 10872
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 8297
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 5613
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 13844
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 14636
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 150351
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 7886
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 5760
+      },
+      {
+         "IATACode": "",
+         "PassengerCount": 199
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5764
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 7488
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 17351
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 194472
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 9863
+      },
+      {
+         "IATACode": "Y4",
+         "PassengerCount": 4647
+      },
+      {
+         "IATACode": "WW",
+         "PassengerCount": 5843
+      }
+   ],
+   "201701": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 4502
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 13292
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 30113
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 13155
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 9853
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 5872
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 8307
+      },
+      {
+         "IATACode": "FJ",
+         "PassengerCount": 2160
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 52877
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7653
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 57835
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8629
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 18667
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 7573
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 22482
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 10318
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 11076
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 6727
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 4593
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 105005
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 19767
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 14261
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 7097
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 22310
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 15763
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 6840
+      },
+      {
+         "IATACode": "QK",
+         "PassengerCount": 1900
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 68748
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 8673
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 10945
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 20654
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 13591
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 8230
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 5741
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 15602
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 28660
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 129931
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 3345
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 6135
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 6062
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 8344
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 13379
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 182203
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 11064
+      },
+      {
+         "IATACode": "Y4",
+         "PassengerCount": 5755
+      },
+      {
+         "IATACode": "WW",
+         "PassengerCount": 4228
+      }
+   ],
+   "201702": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 3603
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 9676
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 28371
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 10248
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 7210
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 5247
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 7490
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 49910
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6264
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 75278
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 7619
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 14792
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 6723
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 16866
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 8572
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 7685
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 5507
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 3938
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 94320
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 15484
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 11521
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 2720
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 16633
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 12390
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 5518
+      },
+      {
+         "IATACode": "QK",
+         "PassengerCount": 1767
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 58866
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 7148
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 8358
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 16707
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 10180
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 4962
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 5147
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 11493
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 27745
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 116050
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 2250
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 5139
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 4971
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 5863
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 11420
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 164526
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 8812
+      },
+      {
+         "IATACode": "Y4",
+         "PassengerCount": 4369
+      },
+      {
+         "IATACode": "WW",
+         "PassengerCount": 5450
+      }
+   ],
+   "201703": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 4529
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 11035
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 30413
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 10161
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 8789
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 6152
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 9098
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 65203
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6690
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 61274
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8155
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 18542
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 5839
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 20464
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 9143
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 7876
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 5963
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 2725
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 127306
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 17050
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 11371
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 2832
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 20686
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 15325
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 6274
+      },
+      {
+         "IATACode": "QK",
+         "PassengerCount": 2083
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 61506
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 9310
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 7873
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 20219
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 10861
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 7227
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 5768
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 12949
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 30355
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 147328
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 2989
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 6786
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5710
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 7201
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 7893
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 192017
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 10321
+      },
+      {
+         "IATACode": "Y4",
+         "PassengerCount": 3375
+      },
+      {
+         "IATACode": "WW",
+         "PassengerCount": 7515
+      }
+   ],
+   "201704": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 6707
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 14842
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 33364
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 9179
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 15832
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 5932
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 9331
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 52019
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6446
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 64373
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8358
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 19319
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 6028
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 21518
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 9704
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 9264
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 8222
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 3717
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 143070
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 18545
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 11495
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 2930
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 22553
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 15799
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 6516
+      },
+      {
+         "IATACode": "QK",
+         "PassengerCount": 2016
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 64479
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 13611
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 10086
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 21332
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 13072
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 8447
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 5981
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 13282
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 22620
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 152485
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 5719
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 7803
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5403
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 8986
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 12349
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 201970
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 12863
+      },
+      {
+         "IATACode": "Y4",
+         "PassengerCount": 4910
+      },
+      {
+         "IATACode": "WW",
+         "PassengerCount": 8340
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 282
+      }
+   ],
+   "201705": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 6686
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 12729
+      },
+      {
+         "IATACode": "AB",
+         "PassengerCount": 5922
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 35597
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 9707
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 15832
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 5644
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 9335
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 32418
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 6706
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 75337
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 7966
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 19529
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 5730
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 20190
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 10707
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 9568
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 8560
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 8011
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 160645
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 18554
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 11162
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 2929
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 31342
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 16202
+      },
+      {
+         "IATACode": "QX",
+         "PassengerCount": 926
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 6091
+      },
+      {
+         "IATACode": "QK",
+         "PassengerCount": 3632
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 68539
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 12632
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 12283
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 21153
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 13656
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 7125
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 5793
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 12964
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 1320
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 159265
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 8071
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 8537
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5390
+      },
+      {
+         "IATACode": "MT",
+         "PassengerCount": 1249
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 8858
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 17238
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 212937
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 12379
+      },
+      {
+         "IATACode": "Y4",
+         "PassengerCount": 5580
+      },
+      {
+         "IATACode": "WW",
+         "PassengerCount": 4797
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 9166
+      }
+   ],
+   "201706": [
+      {
+         "IATACode": "EI",
+         "PassengerCount": 7722
+      },
+      {
+         "IATACode": "AM",
+         "PassengerCount": 13746
+      },
+      {
+         "IATACode": "AB",
+         "PassengerCount": 9654
+      },
+      {
+         "IATACode": "AC",
+         "PassengerCount": 41800
+      },
+      {
+         "IATACode": "CA",
+         "PassengerCount": 9237
+      },
+      {
+         "IATACode": "AF",
+         "PassengerCount": 20279
+      },
+      {
+         "IATACode": "AI",
+         "PassengerCount": 5917
+      },
+      {
+         "IATACode": "NZ",
+         "PassengerCount": 9081
+      },
+      {
+         "IATACode": "FJ",
+         "PassengerCount": 2458
+      },
+      {
+         "IATACode": "AS",
+         "PassengerCount": 26537
+      },
+      {
+         "IATACode": "NH",
+         "PassengerCount": 7119
+      },
+      {
+         "IATACode": "AA",
+         "PassengerCount": 69044
+      },
+      {
+         "IATACode": "OZ",
+         "PassengerCount": 8099
+      },
+      {
+         "IATACode": "BA",
+         "PassengerCount": 19552
+      },
+      {
+         "IATACode": "CM",
+         "PassengerCount": 7308
+      },
+      {
+         "IATACode": "CX",
+         "PassengerCount": 20667
+      },
+      {
+         "IATACode": "CI",
+         "PassengerCount": 11057
+      },
+      {
+         "IATACode": "MU",
+         "PassengerCount": 9623
+      },
+      {
+         "IATACode": "CZ",
+         "PassengerCount": 9108
+      },
+      {
+         "IATACode": "CP",
+         "PassengerCount": 5149
+      },
+      {
+         "IATACode": "DL",
+         "PassengerCount": 178538
+      },
+      {
+         "IATACode": "BR",
+         "PassengerCount": 17647
+      },
+      {
+         "IATACode": "EK",
+         "PassengerCount": 10940
+      },
+      {
+         "IATACode": "EY",
+         "PassengerCount": 2807
+      },
+      {
+         "IATACode": "AY",
+         "PassengerCount": 2875
+      },
+      {
+         "IATACode": "F9",
+         "PassengerCount": 29914
+      },
+      {
+         "IATACode": "HA",
+         "PassengerCount": 15174
+      },
+      {
+         "IATACode": "QX",
+         "PassengerCount": 2025
+      },
+      {
+         "IATACode": "JL",
+         "PassengerCount": 6494
+      },
+      {
+         "IATACode": "QK",
+         "PassengerCount": 3557
+      },
+      {
+         "IATACode": "B6",
+         "PassengerCount": 65210
+      },
+      {
+         "IATACode": "KL",
+         "PassengerCount": 15926
+      },
+      {
+         "IATACode": "KE",
+         "PassengerCount": 13943
+      },
+      {
+         "IATACode": "LH",
+         "PassengerCount": 20601
+      },
+      {
+         "IATACode": "PR",
+         "PassengerCount": 12571
+      },
+      {
+         "IATACode": "QF",
+         "PassengerCount": 8128
+      },
+      {
+         "IATACode": "SK",
+         "PassengerCount": 6637
+      },
+      {
+         "IATACode": "SQ",
+         "PassengerCount": 13371
+      },
+      {
+         "IATACode": "OO",
+         "PassengerCount": 2837
+      },
+      {
+         "IATACode": "WN",
+         "PassengerCount": 163922
+      },
+      {
+         "IATACode": "SY",
+         "PassengerCount": 9451
+      },
+      {
+         "IATACode": "LX",
+         "PassengerCount": 8538
+      },
+      {
+         "IATACode": "TA",
+         "PassengerCount": 5616
+      },
+      {
+         "IATACode": "MT",
+         "PassengerCount": 2312
+      },
+      {
+         "IATACode": "TK",
+         "PassengerCount": 9369
+      },
+      {
+         "IATACode": "UA",
+         "PassengerCount": 14006
+      },
+      {
+         "IATACode": "VX",
+         "PassengerCount": 219741
+      },
+      {
+         "IATACode": "VS",
+         "PassengerCount": 14091
+      },
+      {
+         "IATACode": "Y4",
+         "PassengerCount": 5174
+      },
+      {
+         "IATACode": "WW",
+         "PassengerCount": 9112
+      },
+      {
+         "IATACode": "WS",
+         "PassengerCount": 9350
+      },
+      {
+         "IATACode": "SE",
+         "PassengerCount": 1792
+      }
+   ]
+}
