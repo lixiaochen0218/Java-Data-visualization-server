@@ -30,7 +30,13 @@ public class GreetingController {
     private static SimpMessagingTemplate template;//get MessagingTemplate
     private Map<String,String> airlinesMap = new HashMap<>();
     private TreeMap<String,String> map= null;
+    public String specificDate=null;
 
+    public void setPause(boolean pause) {
+        this.pause = pause;
+    }
+
+    private boolean pause = false;
     @Autowired
     public GreetingController(SimpMessagingTemplate template)
     {
@@ -40,7 +46,7 @@ public class GreetingController {
 
     static
     {
-//rate publisher thread, generates a new value for USD rate every 2 seconds.
+//rate publisher thread, generates a new value for USD rate every 2 seconds. web socket example.
 
 //        rateThread=new Thread(){
 //            public void run() {
@@ -72,8 +78,19 @@ public class GreetingController {
     @SendTo("/topic/greetings")
     public String greeting(String message) throws Exception {
         Thread.sleep(1000); // simulated delay
+        if(true){
+
+        }
+        if(message.equals("start")||airlinesMap.get(message)==null){
+            this.setPause(false);
+            System.out.println("message = [" + message + "]  restart again");
+            return null;
+        }
+        this.setPause(true);
+        specificDate=message;
         System.out.println("MessageMapping receive"+message);
-        return "Hello, " + message + "!";
+
+        return null;
     }
 
     public void passengerNumThread(String... date){
@@ -83,26 +100,36 @@ public class GreetingController {
             public void run() {
                 System.out.println("passNumThread running");
 
-
                 while(true)
                 {
                     try {
                         //automatically send back to topic
                         for(int i=0;i<date.length;i++){
-                            String message = airlinesMap.get(date[i]);
-                            String m[] = {date[i],message};
+                            //System.out.println("for loop");
+                            try {
+                                sleep(2500);
+                            } catch (InterruptedException e) {
 
+                            }
+                            String message=null;
+                            if(pause){
+                                message = airlinesMap.get(specificDate);
+                                map = new TreeMap<>();
+                                map.put("date",specificDate);
+                                map.put("data",message);
+                                template.convertAndSend("/topic/greetings" , map);
+                                System.out.println("date: "+specificDate+" message: "+message);
+                               break;
+                            }
+
+                            message = airlinesMap.get(date[i]);
                             map = new TreeMap<>();
-                            //map.put("date",date[i]);
+                            map.put("date",date[i]);
                             map.put("data",message);
 
                             template.convertAndSend("/topic/greetings" , map);
                             System.out.println("date: "+date[i]+" message: "+message);
-                            try {
-                                sleep(2000);
-                            } catch (InterruptedException e) {
 
-                            }
                         }
 
                     } catch (Exception e) {
